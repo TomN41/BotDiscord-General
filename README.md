@@ -1,5 +1,5 @@
 # BotDiscord-General
-Bot Discord avec quelques commandes, dont un système de vérification par rôles, modération et utilitaires.
+Bot Discord Discord JS.v13 avec quelques commandes, dont un système de vérification par rôles, modération et utilitaires.
 
 Exemple config.json in config.exemple.json
 
