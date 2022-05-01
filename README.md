@@ -12,3 +12,5 @@ Command :
 - !ban
 - !verif
 - !clear
+
+Il contient un système de vérification, qui donne un rôle basic sans permission de parler (par exemple) et envoi un message dans un salon vérification ou l'utilisateur doit taper une commande (!verif) pour que le bot lui donne le rôle vérifié avec lequel il as toutes les permissions demandé.
